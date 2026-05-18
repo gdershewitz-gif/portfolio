@@ -27,11 +27,11 @@ function App() {
           </linearGradient>
         </svg>
         <a href="https://instagram.com/grant_online" target="_blank" rel="noopener noreferrer" className="social-pill">
-          <FiInstagram size={18} style={{ stroke: "url(#ig-gradient)" }} />
+          <FiInstagram size={20} style={{ stroke: "url(#ig-gradient)" }} />
           @grant_online
         </a>
         <a href="https://www.youtube.com/@grant_online" target="_blank" rel="noopener noreferrer" className="social-pill">
-          <FiYoutube size={18} color="#FF0000" />
+          <FiYoutube size={20} color="#FF0000" />
           @grantdershewitz
         </a>
       </div>
@@ -66,7 +66,7 @@ function App() {
 
         <a href="mailto:gdershewitz@gmail.com" className="card">
           <div className="card-icon icon-work">
-            <Zap size={22} />
+            <Zap size={24} />
           </div>
           <div className="card-content">
             <h2 className="card-title">Work with Grant</h2>
