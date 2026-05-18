@@ -1,16 +1,16 @@
-import { Zap, Layers, Megaphone, Play } from 'lucide-react';
+import { Zap } from 'lucide-react';
 import { FiInstagram, FiYoutube } from 'react-icons/fi';
 import './index.css';
 
 function App() {
   return (
     <div className="container">
-      <img 
-        src="/profile.png" 
-        alt="Grant Dershewitz" 
-        className="profile-img" 
+      <img
+        src="/profile.png"
+        alt="Grant Dershewitz"
+        className="profile-img"
       />
-      
+
       <h1 className="headline">
         <span className="headline-bold">Building </span>
         <span className="headline-italic">things that matter.</span>
