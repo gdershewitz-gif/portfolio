@@ -37,10 +37,10 @@ function App() {
       </div>
 
       <div className="cards-container">
-        <a href="https://stack-base.vercel.app" target="_blank" rel="noopener noreferrer" className="card">
-          <img src="/stageone-icon.png" alt="StageOne Icon" className="card-icon custom-icon" />
+        <a href="https://foundrboard.com/" target="_blank" rel="noopener noreferrer" className="card">
+          <img src="/stageone-icon.png" alt="FoundrBoard Icon" className="card-icon custom-icon" />
           <div className="card-content">
-            <h2 className="card-title">StageOne</h2>
+            <h2 className="card-title">FoundrBoard</h2>
             <p className="card-desc">A community for the next generation of founders</p>
           </div>
           <button className="card-button">Learn More</button>
